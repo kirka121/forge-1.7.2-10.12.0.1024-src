@@ -1,0 +1,654 @@
+[08:19:21] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[08:19:27] [Server thread/INFO]: Loading properties
+[08:19:27] [Server thread/INFO]: Default game type: SURVIVAL
+[08:19:27] [Server thread/INFO]: Generating keypair
+[08:19:28] [Server thread/INFO]: Starting Minecraft server on *:4300
+[08:19:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:19:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:19:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:19:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:19:28] [Server thread/INFO]: Preparing level "world"
+[08:19:29] [Server thread/INFO]: Preparing start region for level 0
+[08:19:30] [Server thread/INFO]: Preparing spawn area: 2%
+[08:19:31] [Server thread/INFO]: Preparing spawn area: 65%
+[08:19:31] [Server thread/INFO]: Done (2.938s)! For help, type "help" or "?"
+[08:19:35] [Server thread/INFO]: kirka121[/127.0.0.1:19632] logged in with entity id 391 at (-241.65829133451558, 78.0, 353.4160489956436)
+[08:19:35] [Server thread/INFO]: kirka121 joined the game
+[08:19:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2975ms behind, skipping 59 tick(s)
+[08:21:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2463ms behind, skipping 49 tick(s)
+[08:22:04] [Server thread/INFO]: kirka121 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[08:22:04] [Server thread/INFO]: kirka121 left the game
+[08:22:13] [Server thread/INFO]: Player562[/127.0.0.1:19710] logged in with entity id 5182 at (-182.5, 63.0, 228.5)
+[08:22:13] [Server thread/INFO]: Player562 joined the game
+[08:22:19] [Server thread/INFO]: Player562 has just earned the achievement [Taking Inventory]
+[08:23:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4120ms behind, skipping 82 tick(s)
+[08:24:00] [Server thread/INFO]: kirka121[/127.0.0.1:19783] logged in with entity id 7524 at (-242.27489823069445, 78.0, 350.74382149180497)
+[08:24:00] [Server thread/INFO]: kirka121 joined the game
+[08:24:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4993ms behind, skipping 99 tick(s)
+[08:24:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8754ms behind, skipping 175 tick(s)
+[08:25:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5030ms behind, skipping 100 tick(s)
+[08:25:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3616ms behind, skipping 72 tick(s)
+[08:26:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3456ms behind, skipping 69 tick(s)
+[08:26:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9156ms behind, skipping 183 tick(s)
+[08:27:17] [Server thread/INFO]: kirka121 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[08:27:17] [Server thread/INFO]: kirka121 left the game
+[08:31:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4734ms behind, skipping 94 tick(s)
+[08:32:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11088ms behind, skipping 221 tick(s)
+[08:33:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5076ms behind, skipping 101 tick(s)
+[08:33:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7976ms behind, skipping 159 tick(s)
+[08:34:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10028ms behind, skipping 200 tick(s)
+[08:35:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5492ms behind, skipping 109 tick(s)
+[08:35:45] [Server thread/INFO]: Player562 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[08:35:45] [Server thread/INFO]: Player562 left the game
+ soundEvent: minecraft:game.player.swim
+[08:24:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[08:24:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[08:24:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[08:24:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[08:24:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[08:24:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[08:24:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[08:24:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[08:24:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[08:24:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[08:24:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[08:24:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[08:24:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.sand
+[08:24:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[08:24:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:liquid.water
+[08:24:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.swim
+[08:24:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[08:24:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:liquid.water
+[08:24:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[08:24:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[08:24:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:24:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:24:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[08:25:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:25:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[08:25:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[08:25:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:25:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:25:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[08:25:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[08:25:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:25:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:25:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[08:25:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:25:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[08:25:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:25:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:25:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:25:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:25:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:25:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:25:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.idle
+[08:25:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:25:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:25:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.idle
+[08:25:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:25:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:25:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:25:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:25:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:25:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.idle
+[08:25:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:25:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.idle
+[08:25:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:25:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:25:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:25:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:25:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:25:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:26:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:26:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:26:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:26:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:26:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.idle
+[08:26:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.idle
+[08:26:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:26:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:26:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:26:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:26:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.idle
+[08:26:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:26:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:26:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:26:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.idle
+[08:26:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[08:26:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:26:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:26:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:26:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:26:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:26:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:26:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[08:26:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[08:26:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:26:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[08:26:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:26:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:26:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[08:26:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.idle
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[08:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:27:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:27:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.idle
+[08:27:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:27:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:27:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:27:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:17] [Client thread/INFO]: [CHAT] kirka121 left the game
+[08:27:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:27:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.idle
+[08:27:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:27:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[08:27:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[08:27:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_open
+[08:27:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[08:27:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[08:27:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.horse.soft
+[08:27:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[08:27:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:27:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.door_close
+[08:27:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.click
+[08:27:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.wood
+[08:27:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.chestopen
+[08:27:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:27:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:27:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.chestclosed
+[08:27:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:27:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:27:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:27:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:27:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:27:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:27:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:27:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:28:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:28:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:28:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:28:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:28:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:28:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:28:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:28:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:28:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:28:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:28:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:28:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:28:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:28:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:28:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:28:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:28:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:28:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:28:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:28:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:28:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:28:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:28:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:28:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:28:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:28:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:28:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:28:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:28:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:28:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:28:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:28:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:29:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:29:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:29:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:29:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:29:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:29:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:29:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:29:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:29:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:29:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:29:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:29:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:29:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:29:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:29:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:29:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:29:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:29:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:29:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:29:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:30:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:30:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:30:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:30:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:30:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:30:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:30:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:30:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:30:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:30:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:30:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:30:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:30:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:30:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:30:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:30:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:30:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:30:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:30:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:30:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:30:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:30:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[08:30:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:30:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:30:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[08:30:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:30:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:30:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:30:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:30:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:30:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:30:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:30:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[08:31:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:31:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:31:02] [Client thread/INFO]: Selecting effect minecraft:shaders/post/fxaa.json
+[08:31:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:31:03] [Client thread/INFO]: Selecting effect minecraft:shaders/post/art.json
+[08:31:03] [Client thread/WARN]: Could not find uniform named LumaRamp in the specified shader program.
+[08:31:04] [Client thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[08:31:04] [Client thread/INFO]: Selecting effect minecraft:shaders/post/bumpy.json
+[08:31:04] [Client thread/WARN]: Could not find uniform named OutSize in the specified shader program.
+[08:31:05] [Client thread/INFO]: Selecting effect minecraft:shaders/post/blobs2.json
+[08:31:06] [Client thread/INFO]: Selecting effect minecraft:shaders/post/pencil.json
+[08:31:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:31:07] [Client thread/INFO]: Selecting effect minecraft:shaders/post/color_convolve.json
+[08:31:07] [Client thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[08:31:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:31:09] [Client thread/INFO]: Selecting effect minecraft:shaders/post/deconverge.json
+[08:31:09] [Client thread/INFO]: Selecting effect minecraft:shaders/post/flip.json
+[08:31:10] [Client thread/INFO]: Selecting effect minecraft:shaders/post/invert.json
+[08:31:10] [Client thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[08:31:11] [Client thread/INFO]: Selecting effect minecraft:shaders/post/ntsc.json
+[08:31:11] [Client thread/WARN]: Shader ntsc_decodecould not find sampler named BaseSampler in the specified shader program.
+[08:31:11] [Client thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[08:31:11] [Client thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[08:31:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:31:12] [Client thread/INFO]: Selecting effect minecraft:shaders/post/outline.json
+[08:31:13] [Client thread/INFO]: Selecting effect minecraft:shaders/post/phosphor.json
+[08:31:13] [Client thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[08:31:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:31:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:31:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:31:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:31:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:31:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:31:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:31:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:31:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:31:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:31:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:31:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:31:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:31:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:31:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:31:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:31:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:31:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:31:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:31:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:31:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:31:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:31:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:31:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:31:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:31:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:31:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:31:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:31:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:32:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:32:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:32:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:32:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:32:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:32:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:32:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:32:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[08:32:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:32:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:32:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:32:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:32:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:32:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:32:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:32:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:32:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:32:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:33:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:33:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:33:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game
+[08:33:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:33:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:33:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:33:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:33:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:33:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:33:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:33:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:33:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:33:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:33:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[08:33:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:33:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[08:33:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:34:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:34:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:34:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:34:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:34:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:34:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:34:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:34:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:34:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:34:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:34:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:34:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:34:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:34:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:34:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:34:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:35:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:35:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:35:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:35:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[08:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:35:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:35:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:35:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:35:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:35:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:35:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:35:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.step
+[08:35:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[08:35:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.say
+[08:35:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.say
+[08:35:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:35:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:36:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:36:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:36:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:36:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[08:36:09] [Client thread/INFO]: Stopping!
+[08:36:45] [main/INFO]: Setting user: Player160
+[08:36:47] [Client thread/INFO]: LWJGL Version: 2.9.0
+[08:36:47] [Client thread/ERROR]: Couldn't set icon
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(Unknown Source) ~[?:1.7.0_45]
+	at net.minecraft.client.Minecraft.readImage(Minecraft.java:680) ~[Minecraft.class:?]
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:509) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:931) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:112) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_45]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_45]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:134) [launchwrapper-1.9.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.9.jar:?]
+[08:36:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SteamPowered
+[08:36:53] [Sound Library Loader/INFO]: Sound engine started
+[08:36:54] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:36:54] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:36:56] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[08:37:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[08:37:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[08:37:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[08:38:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[08:38:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[08:38:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[08:39:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[08:39:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[08:39:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[08:39:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[08:39:37] [Client thread/INFO]: Stopping!
